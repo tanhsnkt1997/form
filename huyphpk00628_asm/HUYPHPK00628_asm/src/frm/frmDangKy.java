@@ -383,6 +383,7 @@ public class frmDangKy extends javax.swing.JFrame {
             }
         });
     }
+	////////anhanh
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnDangNhap;
